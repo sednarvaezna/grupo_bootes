@@ -3773,3 +3773,34 @@ input, select, textarea {
 	#ImageClients{
 		width: 80%
 	}
+	span {
+		display: inline-block;
+		padding: 8px 16px;
+	  }
+	  
+	  .carousel-control-prev-icon {
+		background-color: gray;
+		color: black;
+	  }
+	  
+	  .carousel-control-next-icon {
+		background-color: gray;
+		color: black;
+	  }
+	  
+	  .round {
+		border-radius: 20%;
+	  }
+
+
+
+	a {}
+
+	  .right {
+		float: right;
+		right: -120px;
+	  }
+	  .left {
+		float: left;
+		left: -120px;
+	  }
